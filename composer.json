@@ -31,9 +31,9 @@
     "require-dev": {
         "doctrine/cache": "~1.0",
         "phpunit/phpunit": "~4.3",
-        "sensio/framework-extra-bundle": "~2.2",
-        "symfony/yaml": "~2.2",
-        "symfony/monolog-bundle": "~2.2",
+        "sensio/framework-extra-bundle": "~3.0",
+        "symfony/yaml": "~3.0",
+        "symfony/monolog-bundle": "~3.0",
         "jms/serializer-bundle": "~0.11"
     },
     "autoload": {
